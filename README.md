@@ -78,9 +78,7 @@ To get started with Spering using **HTML** and **CSS** only (no backend), follow
 2. **View Project Details**: You can see the list of tasks and the project status.
 3. **Customize Your Projects**: Modify the HTML structure to add new tasks, dates, or project descriptions.
 
-For more detailed usage, visit the [Wiki](https://github.com/yourusername/spering-project-time-management/wiki).
 
----
 
 ## Contributing
 
@@ -106,20 +104,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or inquiries, feel free to reach out:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Email**: [your.email@example.com](mailto:chamikal150@gmail.com)
+- **GitHub**: [chamika2001](https://github.com/chamika2001)
 
 ---
 
-## Support
 
-If you encounter any issues or have questions, open an issue in the repository or visit the [FAQ Section](https://github.com/yourusername/spering-project-time-management/wiki/FAQ).
-
----
 
 ### Demo & Preview
 
-[![Spering Demo](https://img.shields.io/badge/See%20Demo%20Now-GitHub-blue?style=for-the-badge)](https://github.com/yourusername/spering-project-time-management)
+[![Spering Demo](https://img.shields.io/badge/See%20Demo%20Now-GitHub-blue?style=for-the-badge)](https://spering-project-time-management.vercel.app)
 
 ---
 
